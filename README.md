@@ -8,7 +8,7 @@ First, run the development server:
 npm run dev
 # or
 yarn dev
-// if you want to run it on a different port then use:
+# if you want to run it on a different port then use:
 yarn dev -p YOUR_DESIRED_PORT_NUMBER (example: yarn dev -p 4200)
 ```
 
