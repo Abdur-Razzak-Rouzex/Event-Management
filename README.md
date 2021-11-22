@@ -8,6 +8,8 @@ First, run the development server:
 npm run dev
 # or
 yarn dev
+// if you want to run it on a different port then use:
+yarn dev -p YOUR_DESIRED_PORT_NUMBER (example: yarn dev -p 4200)
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
